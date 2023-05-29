@@ -1,3 +1,7 @@
+const Shape = require("./lib/shape");
+const Circle = require("./lib/circle");
+const prompts = require("./lib/prompts");
+
 /**
  * Inquirer needs to ask the user a series of questions, and then the answers need to call the separate operations
  * 
@@ -55,6 +59,8 @@
  * 
  
  */
+
+ prompts.getInfo();
 
 
 

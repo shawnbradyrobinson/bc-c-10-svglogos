@@ -4,7 +4,7 @@
             <polygon points="50 15, 100 100, 0 100" fill="Red"/>
 
 
-            <text x="52" y="95" font-size="35" text-anchor="middle" fill="Yellow">TRI</text>
+            <text x="52" y="95" font-size="35" text-anchor="middle" fill="White">TRI</text>
         
         </svg>
         
